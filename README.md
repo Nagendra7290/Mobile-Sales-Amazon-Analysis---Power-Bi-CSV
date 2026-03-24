@@ -2,7 +2,6 @@
 ---
 
 ## Project Objective
-
 ### Analyze mobile phone sales data from Amazon to:
 - Identify top-selling brands & models
 - Understand price vs demand relationship
