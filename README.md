@@ -9,13 +9,26 @@
 - Discover regional sales trends
 - Generate business insights for decision-making
 ---
-## Dashboard Perview 
+## Prepare Your CSV File
+
+### Sample Data Format
+
+---
+
+## Dashboard Perview  - Main Dashboard
 <p align="center", >
   <img src="https://github.com/Nagendra7290/Mobile-Sales-Amazon-Analysis---Power-Bi-CSV/blob/main/Screenshot%202026-03-25%20023159.png" width="full"/>
 </p>
 ---
 
-## Prepare Your CSV File
-### Sample Data Format
-Under Working Soon will be updated.
+## Dashboard Perview  - Time(TAT) Dashboard
 
+
+---
+
+## Dashboard Perview  - Customer Dashboard
+
+
+---
+
+Under Working Soon will be updated.
