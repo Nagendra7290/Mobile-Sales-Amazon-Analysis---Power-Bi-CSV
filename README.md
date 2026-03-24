@@ -1,4 +1,4 @@
-# Mobile Sales Amazon Analysis- PowerBi-CSV
+# Mobile Sales Amazon Analysis I PowerBi
 
 
 Under Working Soon will be updated.
