@@ -1,4 +1,4 @@
-# Mobile Sales Amazon Analysis I PowerBi
+# Amazon Mobile Sales Analysis Dashboard I PowerBi
 ---
 
 ## Project Objective
