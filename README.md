@@ -32,7 +32,7 @@
 ## Dashboard Perview  - Customer Dashboard
 
 <p align="center", >
-  <img src="https://github.com/Nagendra7290/Mobile-Sales-Amazon-Analysis---Power-Bi-CSV/blob/main/assets/images/Screenshot%202026-03-30%20213958.png" width="full"/>
+  <img src="https://github.com/Nagendra7290/Mobile-Sales-Amazon-Analysis---Power-Bi-CSV/blob/main/assets/images/Screenshot%202026-03-30%20213917.png" width="full"/>
 </p>
 
 
